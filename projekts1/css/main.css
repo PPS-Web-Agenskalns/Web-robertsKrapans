@@ -1,0 +1,30 @@
+*
+{border: lpx solid red!important;  
+}
+
+
+
+p {
+    color: coral; text-align: center; 
+}
+
+
+a {color : fuchsia;
+    background-color:darkcyan}
+
+
+
+
+.text-wrap{
+    float: left
+}
+
+.grid{ width: 100%;     
+}
+
+.row{display:flex}
+.col-1{width:100%:}
+.row{width:100%:}
+.col-10{width:200%}
+.col-5{width:300%;
+height:500px}
